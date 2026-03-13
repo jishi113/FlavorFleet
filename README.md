@@ -1,4 +1,4 @@
-# TOMATO - Food Ordering Website
+# FLAVORFLEET
 
 This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
@@ -27,31 +27,15 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 - Role-Based Identification
 - Beautiful Alerts
 
-## Screenshots
-
-![Hero](https://i.ibb.co/59cwY75/food-hero.png)
-- Hero Section
-
-![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
-- Products Section
-
-![Cart](https://i.ibb.co/t2LrQ8p/food-cart.png)
-- Cart Page
-
-![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
-- Login Popup
-
-## Run Locally
-
 Clone the project
 
 ```bash
-    git clone https://github.com/Mshandev/Food-Delivery
+    git clone https://github.com/jishi113/FlavorFleet
 ```
 Go to the project directory
 
 ```bash
-    cd Food-Delivery
+    cd FlavorFleet
 ```
 Install dependencies (frontend)
 
@@ -124,7 +108,3 @@ The application is deployed on Render.
 
 Contributions are always welcome!
 Just raise an issue, and we will discuss it.
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
