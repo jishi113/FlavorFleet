@@ -95,9 +95,7 @@ Start the Backend server
 * [JWT-Authentication](https://jwt.io/introduction)
 * [Multer](https://www.npmjs.com/package/multer)
 
-## Deployment
 
-The application is deployed on Render.
 
 ## Contributing
 
